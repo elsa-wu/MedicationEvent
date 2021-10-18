@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MedicationEvent</string>
+    <string name="my_event_title">My Event</string>
+    <string name="add">ADD</string>
+    <string name="choose_date">CHOOSE DATE</string>
+    <string name="choose_time">CHOOSE TIME</string>
+    <string name="title_activity_add_event">Add Medication Event</string>
+    <string name="medication_name_title">Medication Name:</string>
+    <string name="event_date_title">Event Date:</string>
+</resources>
